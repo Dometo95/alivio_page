@@ -44,7 +44,7 @@
     .hero{
         background:
         linear-gradient(180deg, rgba(245, 246, 252, 0.52), rgba(255, 176, 239, 0.28)),
-        url('assets/webp/hero_bg.webp') 60% 50%/cover no-repeat;
+        url('../assets/webp/hero_bg.webp') 60% 50%/cover no-repeat;
     }
     .hero__title{
         font-size: 45px;
